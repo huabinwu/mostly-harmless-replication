@@ -1,4 +1,8 @@
 ---
+title: "Reading Notes for Mostly Harmless Econometrics"
+author: "Huabin Wu"
+date: "Updated `r Sys.Date()`"
+numbersections: yes
 output:
   pdf_document: default
   html_document: default
